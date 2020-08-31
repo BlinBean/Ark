@@ -1,0 +1,1364 @@
+fileFormatVersion: 2
+guid: 02547da1c96617842a2138a06d0d4ecc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8502205400393703703
+    second: skill-armatureName_Skill_00
+  - first:
+      213: 1482998575986410177
+    second: skill-armatureName_Skill_01
+  - first:
+      213: -2766026623455060796
+    second: skill-armatureName_Skill_02
+  - first:
+      213: -4372642037510534284
+    second: skill-armatureName_Skill_03
+  - first:
+      213: -139245329980487592
+    second: skill-armatureName_Skill_04
+  - first:
+      213: 5933982972144199801
+    second: skill-armatureName_Skill_05
+  - first:
+      213: -7201679704523930453
+    second: skill-armatureName_Skill_06
+  - first:
+      213: -265845706359753033
+    second: skill-armatureName_Skill_07
+  - first:
+      213: 1663984730265400322
+    second: skill-armatureName_Skill_08
+  - first:
+      213: -7783939448239224243
+    second: skill-armatureName_Skill_09
+  - first:
+      213: 6066300843700809808
+    second: skill-armatureName_Skill_10
+  - first:
+      213: 4590281976445297890
+    second: skill-armatureName_Skill_11
+  - first:
+      213: -2484374211957498947
+    second: skill-armatureName_Skill_12
+  - first:
+      213: -6028241395889592707
+    second: skillBegin-armatureName_Skill_Begin_00
+  - first:
+      213: -8896015739842439042
+    second: skillBegin-armatureName_Skill_Begin_01
+  - first:
+      213: -305476303897932914
+    second: skillBegin-armatureName_Skill_Begin_02
+  - first:
+      213: 4541429013953661662
+    second: skillBegin-armatureName_Skill_Begin_03
+  - first:
+      213: 4934158534861669500
+    second: skillBegin-armatureName_Skill_Begin_04
+  - first:
+      213: 2825074689630757818
+    second: skillBegin-armatureName_Skill_Begin_05
+  - first:
+      213: 9179660784038012366
+    second: skillBegin-armatureName_Skill_Begin_06
+  - first:
+      213: 1800534695535125292
+    second: skillBegin-armatureName_Skill_Begin_07
+  - first:
+      213: -6772861943806213645
+    second: skillBegin-armatureName_Skill_Begin_08
+  - first:
+      213: 8533059561043858665
+    second: skillBegin-armatureName_Skill_Begin_09
+  - first:
+      213: -3779712672255066284
+    second: skillBegin-armatureName_Skill_Begin_10
+  - first:
+      213: -6413417375363523077
+    second: skillBegin-armatureName_Skill_Begin_11
+  - first:
+      213: 7246285779040803275
+    second: skillBegin-armatureName_Skill_Begin_12
+  - first:
+      213: -3584594866577890064
+    second: skillBegin-armatureName_Skill_Begin_13
+  - first:
+      213: 2438784386649487116
+    second: skillBegin-armatureName_Skill_Begin_14
+  - first:
+      213: 393342675941243806
+    second: skillBegin-armatureName_Skill_Begin_15
+  - first:
+      213: 4158701297523471126
+    second: skillBegin-armatureName_Skill_Begin_16
+  - first:
+      213: 9169561605932252780
+    second: skillBegin-armatureName_Skill_Begin_17
+  - first:
+      213: 2766123270714769247
+    second: skillBegin-armatureName_Skill_Begin_18
+  - first:
+      213: -2483552318050279807
+    second: skillBegin-armatureName_Skill_Begin_19
+  - first:
+      213: 3668474413428440927
+    second: skillBegin-armatureName_Skill_Begin_20
+  - first:
+      213: -3804634002176150427
+    second: skillBegin-armatureName_Skill_Begin_21
+  - first:
+      213: -7219229328555921645
+    second: skillBegin-armatureName_Skill_Begin_22
+  - first:
+      213: 7009239891413751818
+    second: skillBegin-armatureName_Skill_Begin_23
+  - first:
+      213: 8729348296248654432
+    second: skillBegin-armatureName_Skill_Begin_24
+  - first:
+      213: -4266700067075905443
+    second: skillEnd-armatureName_Skill_End_00
+  - first:
+      213: -7128535338206186950
+    second: skillEnd-armatureName_Skill_End_01
+  - first:
+      213: 6084246452494625590
+    second: skillEnd-armatureName_Skill_End_02
+  - first:
+      213: 6827348477680995925
+    second: skillEnd-armatureName_Skill_End_03
+  - first:
+      213: 6534347760273991923
+    second: skillEnd-armatureName_Skill_End_04
+  - first:
+      213: -6418804393834703836
+    second: skillEnd-armatureName_Skill_End_05
+  - first:
+      213: -2094184074565279152
+    second: skillEnd-armatureName_Skill_End_06
+  - first:
+      213: -7152080923588166713
+    second: skillEnd-armatureName_Skill_End_07
+  - first:
+      213: -633938275535354274
+    second: skillEnd-armatureName_Skill_End_08
+  - first:
+      213: 1930701089713506646
+    second: skillEnd-armatureName_Skill_End_09
+  - first:
+      213: 4521166241919000011
+    second: skillEnd-armatureName_Skill_End_10
+  - first:
+      213: -6796971586567484663
+    second: skillEnd-armatureName_Skill_End_11
+  - first:
+      213: -4175932476736589462
+    second: skillEnd-armatureName_Skill_End_12
+  - first:
+      213: -6369589764218113130
+    second: skillEnd-armatureName_Skill_End_13
+  - first:
+      213: -3595243536153222933
+    second: skillEnd-armatureName_Skill_End_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skill-armatureName_Skill_00
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1953
+        width: 421
+        height: 354
+      alignment: 9
+      pivot: {x: 0.60926366, y: 0.529661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee10262c39120a80800000000000000
+      internalID: -8502205400393703703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill-armatureName_Skill_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1926
+        width: 414
+        height: 369
+      alignment: 9
+      pivot: {x: 0.6195652, y: 0.50542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2841cf85ba49410800000000000000
+      internalID: 1482998575986410177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill-armatureName_Skill_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3023
+        width: 460
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5576087, y: 0.5139276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc10b5e0791d99d0800000000000000
+      internalID: -2766026623455060796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill-armatureName_Skill_03
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 3378
+        width: 459
+        height: 356
+      alignment: 9
+      pivot: {x: 0.5588235, y: 0.51825845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b8e30fb314153c0800000000000000
+      internalID: -4372642037510534284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill-armatureName_Skill_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1216
+        width: 393
+        height: 352
+      alignment: 9
+      pivot: {x: 0.65267175, y: 0.5213068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85881e13c1d411ef0800000000000000
+      internalID: -139245329980487592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill-armatureName_Skill_05
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2654
+        width: 431
+        height: 369
+      alignment: 9
+      pivot: {x: 0.5951276, y: 0.50542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9782fd5d21eb95250800000000000000
+      internalID: 5933982972144199801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill-armatureName_Skill_06
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3381
+        width: 462
+        height: 357
+      alignment: 9
+      pivot: {x: 0.5551948, y: 0.5252101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba406b1077e7e0c90800000000000000
+      internalID: -7201679704523930453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill-armatureName_Skill_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1570
+        width: 403
+        height: 354
+      alignment: 9
+      pivot: {x: 0.6364764, y: 0.5211864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b63d531db68f4cf0800000000000000
+      internalID: -265845706359753033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill-armatureName_Skill_08
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2297
+        width: 435
+        height: 369
+      alignment: 9
+      pivot: {x: 0.58965516, y: 0.50542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204b427cb49a71710800000000000000
+      internalID: 1663984730265400322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill-armatureName_Skill_09
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 3740
+        width: 467
+        height: 355
+      alignment: 9
+      pivot: {x: 0.54925054, y: 0.5253521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a0d8a1054e9f390800000000000000
+      internalID: -7783939448239224243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill-armatureName_Skill_10
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1953
+        width: 421
+        height: 354
+      alignment: 9
+      pivot: {x: 0.60926366, y: 0.529661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05070790a74df2450800000000000000
+      internalID: 6066300843700809808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill-armatureName_Skill_11
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1953
+        width: 421
+        height: 354
+      alignment: 9
+      pivot: {x: 0.60926366, y: 0.529661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e466e02325f3bf30800000000000000
+      internalID: 4590281976445297890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skill-armatureName_Skill_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1953
+        width: 421
+        height: 354
+      alignment: 9
+      pivot: {x: 0.60926366, y: 0.529661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbbd12721dab58dd0800000000000000
+      internalID: -2484374211957498947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_00
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 661
+        width: 338
+        height: 394
+      alignment: 9
+      pivot: {x: 0.7307692, y: 0.34390864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7622b1b362675ca0800000000000000
+      internalID: -6028241395889592707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_01
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1057
+        width: 366
+        height: 390
+      alignment: 9
+      pivot: {x: 0.74043715, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78586651d00b8480800000000000000
+      internalID: -8896015739842439042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_02
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 824
+        width: 383
+        height: 390
+      alignment: 9
+      pivot: {x: 0.7389034, y: 0.3525641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b4dda8beab2cbf0800000000000000
+      internalID: -305476303897932914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_03
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1142
+        width: 387
+        height: 392
+      alignment: 9
+      pivot: {x: 0.751938, y: 0.3482143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda4c5d60a5660f30800000000000000
+      internalID: 4541429013953661662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_04
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1449
+        width: 388
+        height: 392
+      alignment: 9
+      pivot: {x: 0.742268, y: 0.34566328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7444ef8b07a97440800000000000000
+      internalID: 4934158534861669500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_05
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 1343
+        width: 374
+        height: 391
+      alignment: 9
+      pivot: {x: 0.72192514, y: 0.34398976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3636b567ea43720800000000000000
+      internalID: 2825074689630757818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_06
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1736
+        width: 354
+        height: 477
+      alignment: 9
+      pivot: {x: 0.68079096, y: 0.4811321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec56b2fd8d4b46f70800000000000000
+      internalID: 9179660784038012366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_07
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 190
+        width: 313
+        height: 469
+      alignment: 9
+      pivot: {x: 0.6198083, y: 0.47441363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23232514c8ccf810800000000000000
+      internalID: 1800534695535125292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_08
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 856
+        width: 385
+        height: 387
+      alignment: 9
+      pivot: {x: 0.4, y: 0.3630491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f14bae32f5f102a0800000000000000
+      internalID: -6772861943806213645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_09
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 2601
+        width: 427
+        height: 404
+      alignment: 9
+      pivot: {x: 0.36533958, y: 0.39975247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4154fe5748b6670800000000000000
+      internalID: 8533059561043858665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_10
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1843
+        width: 410
+        height: 388
+      alignment: 9
+      pivot: {x: 0.32439023, y: 0.35695878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fb131b953cb8bc0800000000000000
+      internalID: -3779712672255066284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3741
+        width: 471
+        height: 354
+      alignment: 9
+      pivot: {x: 0.2760085, y: 0.39124295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd932970e6fef6a0800000000000000
+      internalID: -6413417375363523077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2668
+        width: 438
+        height: 353
+      alignment: 9
+      pivot: {x: 0.29452056, y: 0.39235127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc911b8068aff8460800000000000000
+      internalID: 7246285779040803275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_13
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2233
+        width: 413
+        height: 366
+      alignment: 9
+      pivot: {x: 0.3244552, y: 0.3784153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4afe9f5f5f04ec0800000000000000
+      internalID: -3584594866577890064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_14
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 3031
+        width: 461
+        height: 356
+      alignment: 9
+      pivot: {x: 0.27114967, y: 0.38061798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07f20a7a7d48d120800000000000000
+      internalID: 2438784386649487116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3384
+        width: 470
+        height: 358
+      alignment: 9
+      pivot: {x: 0.293617, y: 0.3840782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bba7a641f657500800000000000000
+      internalID: 393342675941243806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_16
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1245
+        width: 394
+        height: 351
+      alignment: 9
+      pivot: {x: 0.33756346, y: 0.3945869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613b7dddbcca6b930800000000000000
+      internalID: 4158701297523471126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_17
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 3007
+        width: 433
+        height: 369
+      alignment: 9
+      pivot: {x: 0.29099306, y: 0.37533876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ef6abb2b3d04f70800000000000000
+      internalID: 9169561605932252780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_18
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 3389
+        width: 465
+        height: 350
+      alignment: 9
+      pivot: {x: 0.26881722, y: 0.39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f35eb857e336620800000000000000
+      internalID: 2766123270714769247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1598
+        width: 408
+        height: 353
+      alignment: 9
+      pivot: {x: 0.31617647, y: 0.39235127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ed38d3356a88dd0800000000000000
+      internalID: -2483552318050279807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_20
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 2663
+        width: 446
+        height: 366
+      alignment: 9
+      pivot: {x: 0.29147983, y: 0.3784153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ff208ea0a09e230800000000000000
+      internalID: 3668474413428440927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3744
+        width: 477
+        height: 351
+      alignment: 9
+      pivot: {x: 0.28301886, y: 0.39173788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564fae76889333bc0800000000000000
+      internalID: -3804634002176150427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_22
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2298
+        width: 424
+        height: 354
+      alignment: 9
+      pivot: {x: 0.2995283, y: 0.3940678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fa75fbc2520db90800000000000000
+      internalID: -7219229328555921645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_23
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2298
+        width: 424
+        height: 354
+      alignment: 9
+      pivot: {x: 0.2995283, y: 0.3940678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08d6317b82d54160800000000000000
+      internalID: 7009239891413751818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillBegin-armatureName_Skill_Begin_24
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2298
+        width: 424
+        height: 354
+      alignment: 9
+      pivot: {x: 0.2995283, y: 0.3940678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aff8e7600e42970800000000000000
+      internalID: 8729348296248654432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_00
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 3736
+        width: 464
+        height: 359
+      alignment: 9
+      pivot: {x: 0.29418105, y: 0.43593314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d582eca15e2a9c4c0800000000000000
+      internalID: -4266700067075905443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_01
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1536
+        width: 396
+        height: 357
+      alignment: 9
+      pivot: {x: 0.34469697, y: 0.43837535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32b665e0ea521d90800000000000000
+      internalID: -7128535338206186950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_02
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2309
+        width: 429
+        height: 352
+      alignment: 9
+      pivot: {x: 0.32051283, y: 0.43323863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b6fdea9e59f6450800000000000000
+      internalID: 6084246452494625590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_03
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 3025
+        width: 447
+        height: 354
+      alignment: 9
+      pivot: {x: 0.31208053, y: 0.43926555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ecaf1844d9fbe50800000000000000
+      internalID: 6827348477680995925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_04
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1895
+        width: 410
+        height: 401
+      alignment: 9
+      pivot: {x: 0.32317072, y: 0.5099751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f82002eaaaaeaa50800000000000000
+      internalID: 6534347760273991923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_05
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 438
+        width: 349
+        height: 416
+      alignment: 9
+      pivot: {x: 0.38252148, y: 0.51322114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42414ce7963dbe6a0800000000000000
+      internalID: -6418804393834703836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_06
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 9
+        width: 285
+        height: 427
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5163934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052a14dfda6ffe2e0800000000000000
+      internalID: -2094184074565279152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 299
+        height: 431
+      alignment: 9
+      pivot: {x: 0.58026755, y: 0.50928074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbfda81b44bebc90800000000000000
+      internalID: -7152080923588166713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_08
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 22
+        width: 318
+        height: 414
+      alignment: 9
+      pivot: {x: 0.6933962, y: 0.46980676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5601354f7cc337f0800000000000000
+      internalID: -633938275535354274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_09
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 2215
+        width: 337
+        height: 384
+      alignment: 9
+      pivot: {x: 0.74332345, y: 0.4049479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65945db696a3bca10800000000000000
+      internalID: 1930701089713506646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_10
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 755
+        width: 350
+        height: 385
+      alignment: 9
+      pivot: {x: 0.75, y: 0.3935065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdd11c2eb86ebe30800000000000000
+      internalID: 4521166241919000011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_11
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 946
+        width: 345
+        height: 395
+      alignment: 9
+      pivot: {x: 0.7550725, y: 0.3886076}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bc83a9a5e4ca1a0800000000000000
+      internalID: -6796971586567484663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_12
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 661
+        width: 338
+        height: 394
+      alignment: 9
+      pivot: {x: 0.7529586, y: 0.38451776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a613916998b1c06c0800000000000000
+      internalID: -4175932476736589462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_13
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 661
+        width: 338
+        height: 394
+      alignment: 9
+      pivot: {x: 0.7529586, y: 0.38451776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693b0d26bdbaa97a0800000000000000
+      internalID: -6369589764218113130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skillEnd-armatureName_Skill_End_14
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 661
+        width: 338
+        height: 394
+      alignment: 9
+      pivot: {x: 0.7529586, y: 0.38451776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be061926d012b1ec0800000000000000
+      internalID: -3595243536153222933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1388 @@
+fileFormatVersion: 2
+guid: 03c2add3f8ca533438cb4d0bcb3a17b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2637685083036058983
+    second: Hoshiguma_Skill_00
+  - first:
+      213: 1778228606501980517
+    second: Hoshiguma_Skill_01
+  - first:
+      213: -1721082505517663928
+    second: Hoshiguma_Skill_02
+  - first:
+      213: -4268784341505454684
+    second: Hoshiguma_Skill_03
+  - first:
+      213: 7909016076942382949
+    second: Hoshiguma_Skill_04
+  - first:
+      213: 769442896661759537
+    second: Hoshiguma_Skill_05
+  - first:
+      213: 86015988803847074
+    second: Hoshiguma_Skill_06
+  - first:
+      213: -318757172688904768
+    second: Hoshiguma_Skill_07
+  - first:
+      213: -7508434706916968987
+    second: Hoshiguma_Skill_08
+  - first:
+      213: 2838791922238661747
+    second: Hoshiguma_Skill_09
+  - first:
+      213: -8797632372230948886
+    second: Hoshiguma_Skill_10
+  - first:
+      213: -540729010962532912
+    second: Hoshiguma_Skill_11
+  - first:
+      213: -5132276060663976173
+    second: Hoshiguma_Skill_12
+  - first:
+      213: -2431909681077058591
+    second: Hoshiguma_Skill_Begin_00
+  - first:
+      213: -9078432800383101949
+    second: Hoshiguma_Skill_Begin_01
+  - first:
+      213: -5980211691465787198
+    second: Hoshiguma_Skill_Begin_02
+  - first:
+      213: -8750844172968346864
+    second: Hoshiguma_Skill_Begin_03
+  - first:
+      213: -7059554973916688540
+    second: Hoshiguma_Skill_Begin_04
+  - first:
+      213: -6261321862246529166
+    second: Hoshiguma_Skill_Begin_05
+  - first:
+      213: -4373388071298423268
+    second: Hoshiguma_Skill_Begin_06
+  - first:
+      213: -1218477941535826213
+    second: Hoshiguma_Skill_Begin_07
+  - first:
+      213: -5950881262374597853
+    second: Hoshiguma_Skill_Begin_08
+  - first:
+      213: 4298036665176669221
+    second: Hoshiguma_Skill_Begin_09
+  - first:
+      213: -408906384744144483
+    second: Hoshiguma_Skill_Begin_10
+  - first:
+      213: 5281608357299892029
+    second: Hoshiguma_Skill_Begin_11
+  - first:
+      213: 3238152053187941758
+    second: Hoshiguma_Skill_Begin_12
+  - first:
+      213: -8913921921666569978
+    second: Hoshiguma_Skill_Begin_13
+  - first:
+      213: 5777777836177942580
+    second: Hoshiguma_Skill_Begin_14
+  - first:
+      213: 4019456308143789103
+    second: Hoshiguma_Skill_Begin_15
+  - first:
+      213: 6353998828916369872
+    second: Hoshiguma_Skill_Begin_16
+  - first:
+      213: 4727990421817859088
+    second: Hoshiguma_Skill_Begin_17
+  - first:
+      213: 20395129215975408
+    second: Hoshiguma_Skill_Begin_18
+  - first:
+      213: -3325707413592554506
+    second: Hoshiguma_Skill_Begin_19
+  - first:
+      213: 4561211167335192246
+    second: Hoshiguma_Skill_Begin_20
+  - first:
+      213: 8295347597402406367
+    second: Hoshiguma_Skill_Begin_21
+  - first:
+      213: -605744998251120390
+    second: Hoshiguma_Skill_Begin_22
+  - first:
+      213: 6226558445276105470
+    second: Hoshiguma_Skill_Begin_23
+  - first:
+      213: 8999471722919195342
+    second: Hoshiguma_Skill_Begin_24
+  - first:
+      213: 3843696309189228838
+    second: Hoshiguma_Skill_Begin_25
+  - first:
+      213: -6669939733468833297
+    second: Hoshiguma_Skill_End_00
+  - first:
+      213: -4041943102711331207
+    second: Hoshiguma_Skill_End_01
+  - first:
+      213: -7693909069812655301
+    second: Hoshiguma_Skill_End_02
+  - first:
+      213: -4978636011632072176
+    second: Hoshiguma_Skill_End_03
+  - first:
+      213: -4371058230286321936
+    second: Hoshiguma_Skill_End_04
+  - first:
+      213: 9153303690429450478
+    second: Hoshiguma_Skill_End_05
+  - first:
+      213: -6901275890548927868
+    second: Hoshiguma_Skill_End_06
+  - first:
+      213: 1837698981688020447
+    second: Hoshiguma_Skill_End_07
+  - first:
+      213: 7847944109050259841
+    second: Hoshiguma_Skill_End_08
+  - first:
+      213: -3258880400902515963
+    second: Hoshiguma_Skill_End_09
+  - first:
+      213: 4118870798038624869
+    second: Hoshiguma_Skill_End_10
+  - first:
+      213: 3458218378164985810
+    second: Hoshiguma_Skill_End_11
+  - first:
+      213: -1970754668097170983
+    second: Hoshiguma_Skill_End_12
+  - first:
+      213: -266068765915273619
+    second: Hoshiguma_Skill_End_13
+  - first:
+      213: 1356462008606394932
+    second: Hoshiguma_Skill_End_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_00
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 2332
+        width: 339
+        height: 466
+      alignment: 9
+      pivot: {x: 0.5722714, y: 0.55364805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76506b3ab90fa9420800000000000000
+      internalID: 2637685083036058983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_01
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 3636
+        width: 388
+        height: 459
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.55991286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5690df30f798da810800000000000000
+      internalID: 1778228606501980517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_02
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2816
+        width: 367
+        height: 389
+      alignment: 9
+      pivot: {x: 0.53950953, y: 0.66323906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849fa75749c7d18e0800000000000000
+      internalID: -1721082505517663928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_03
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1869
+        width: 319
+        height: 461
+      alignment: 9
+      pivot: {x: 0.61128527, y: 0.55748373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad41d5224b32c4c0800000000000000
+      internalID: -4268784341505454684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_04
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 3622
+        width: 384
+        height: 473
+      alignment: 9
+      pivot: {x: 0.5182292, y: 0.54545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567110dd73872cd60800000000000000
+      internalID: 7909016076942382949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_05
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1427
+        width: 309
+        height: 440
+      alignment: 9
+      pivot: {x: 0.6213592, y: 0.5840909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136c872ec3c9daa00800000000000000
+      internalID: 769442896661759537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_06
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3186
+        width: 380
+        height: 447
+      alignment: 9
+      pivot: {x: 0.5026316, y: 0.5749441}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a348a90617913100800000000000000
+      internalID: 86015988803847074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_07
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2022
+        width: 354
+        height: 390
+      alignment: 9
+      pivot: {x: 0.53954804, y: 0.65897435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd15405a0c839bf0800000000000000
+      internalID: -318757172688904768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_08
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 607
+        width: 294
+        height: 448
+      alignment: 9
+      pivot: {x: 0.6530612, y: 0.57366073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5fffa5a6eacc790800000000000000
+      internalID: -7508434706916968987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_09
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1496
+        width: 316
+        height: 443
+      alignment: 9
+      pivot: {x: 0.62341774, y: 0.58239275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374a844763a656720800000000000000
+      internalID: 2838791922238661747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_10
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 2332
+        width: 339
+        height: 466
+      alignment: 9
+      pivot: {x: 0.5722714, y: 0.55364805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae772b428f788e580800000000000000
+      internalID: -8797632372230948886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_11
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 2332
+        width: 339
+        height: 466
+      alignment: 9
+      pivot: {x: 0.5722714, y: 0.55364805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d574d554d1fe78f0800000000000000
+      internalID: -540729010962532912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_12
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 2332
+        width: 339
+        height: 466
+      alignment: 9
+      pivot: {x: 0.5722714, y: 0.55364805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fe1e26d1e76c8b0800000000000000
+      internalID: -5132276060663976173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_00
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 142
+        width: 286
+        height: 424
+      alignment: 9
+      pivot: {x: 0.5437063, y: 0.557783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e38195a70f104ed0800000000000000
+      internalID: -2431909681077058591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_01
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 261
+        width: 293
+        height: 433
+      alignment: 9
+      pivot: {x: 0.60580206, y: 0.56235564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30419e7b77de20280800000000000000
+      internalID: -9078432800383101949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_02
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1057
+        width: 307
+        height: 437
+      alignment: 9
+      pivot: {x: 0.67589575, y: 0.5594966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c83b80b625020da0800000000000000
+      internalID: -5980211691465787198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_03
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 568
+        width: 306
+        height: 447
+      alignment: 9
+      pivot: {x: 0.75980395, y: 0.55369127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bbc61b691ce8680800000000000000
+      internalID: -8750844172968346864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_04
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1177
+        width: 316
+        height: 441
+      alignment: 9
+      pivot: {x: 0.7357595, y: 0.57709754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f8a53872c670e90800000000000000
+      internalID: -7059554973916688540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_05
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1102
+        width: 321
+        height: 451
+      alignment: 9
+      pivot: {x: 0.6775701, y: 0.5798226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2778860b0f05b19a0800000000000000
+      internalID: -6261321862246529166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 657
+        width: 315
+        height: 443
+      alignment: 9
+      pivot: {x: 0.65555555, y: 0.5948081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16a35968ba9e43c0800000000000000
+      internalID: -4373388071298423268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_07
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1479
+        width: 322
+        height: 447
+      alignment: 9
+      pivot: {x: 0.63509315, y: 0.60738254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde9b1894c8171fe0800000000000000
+      internalID: -1218477941535826213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_08
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1019
+        width: 299
+        height: 427
+      alignment: 9
+      pivot: {x: 0.6471572, y: 0.5913349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b42af55093a6da0800000000000000
+      internalID: -5950881262374597853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_09
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 3207
+        width: 382
+        height: 427
+      alignment: 9
+      pivot: {x: 0.36780104, y: 0.5913349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cb5733391b5ab30800000000000000
+      internalID: 4298036665176669221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3674
+        width: 421
+        height: 421
+      alignment: 9
+      pivot: {x: 0.38123515, y: 0.5261283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91afee3fc5435af0800000000000000
+      internalID: -408906384744144483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_11
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 696
+        width: 306
+        height: 479
+      alignment: 9
+      pivot: {x: 0.5702614, y: 0.46242172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f289b51da0c4940800000000000000
+      internalID: 5281608357299892029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_12
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2345
+        width: 351
+        height: 469
+      alignment: 9
+      pivot: {x: 0.4002849, y: 0.47014925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7518fac22a30fc20800000000000000
+      internalID: 3238152053187941758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3635
+        width: 394
+        height: 460
+      alignment: 9
+      pivot: {x: 0.3642132, y: 0.48369566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6092f7f7d336b4480800000000000000
+      internalID: -8913921921666569978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2414
+        width: 364
+        height: 387
+      alignment: 9
+      pivot: {x: 0.385989, y: 0.5697674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438e28c745ace2050800000000000000
+      internalID: 5777777836177942580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1017
+        width: 315
+        height: 460
+      alignment: 9
+      pivot: {x: 0.43650794, y: 0.47934783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f241d1d573af7c730800000000000000
+      internalID: 4019456308143789103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2803
+        width: 379
+        height: 471
+      alignment: 9
+      pivot: {x: 0.36807388, y: 0.470276}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9eecc1540fd2850800000000000000
+      internalID: 6353998828916369872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_17
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1448
+        width: 310
+        height: 439
+      alignment: 9
+      pivot: {x: 0.44677418, y: 0.5022779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c17e91d323d9140800000000000000
+      internalID: 4727990421817859088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_18
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 3650
+        width: 378
+        height: 445
+      alignment: 9
+      pivot: {x: 0.3611111, y: 0.49550563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fff0101345784000800000000000000
+      internalID: 20395129215975408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2386
+        width: 355
+        height: 389
+      alignment: 9
+      pivot: {x: 0.38732395, y: 0.566838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3cee94ab6b8d1d0800000000000000
+      internalID: -3325707413592554506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_20
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 978
+        width: 297
+        height: 447
+      alignment: 9
+      pivot: {x: 0.47306398, y: 0.49328858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b61f8ee36dac4f30800000000000000
+      internalID: 4561211167335192246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_21
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1889
+        width: 313
+        height: 441
+      alignment: 9
+      pivot: {x: 0.4456869, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd7f8f60befe1370800000000000000
+      internalID: 8295347597402406367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 190
+        width: 305
+        height: 465
+      alignment: 9
+      pivot: {x: 0.45081967, y: 0.47634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8b5ca2226f797f0800000000000000
+      internalID: -605744998251120390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1555
+        width: 340
+        height: 465
+      alignment: 9
+      pivot: {x: 0.41029412, y: 0.47634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa04ef8aed296650800000000000000
+      internalID: 6226558445276105470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1555
+        width: 340
+        height: 465
+      alignment: 9
+      pivot: {x: 0.41029412, y: 0.47634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec275cac9db84ec70800000000000000
+      internalID: 8999471722919195342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_Begin_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1555
+        width: 340
+        height: 465
+      alignment: 9
+      pivot: {x: 0.41029412, y: 0.47634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62934bdad6d875530800000000000000
+      internalID: 3843696309189228838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_00
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2777
+        width: 364
+        height: 407
+      alignment: 9
+      pivot: {x: 0.5206044, y: 0.6142506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe99359b62d9f63a0800000000000000
+      internalID: -6669939733468833297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_01
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 540
+        width: 281
+        height: 436
+      alignment: 9
+      pivot: {x: 0.7099644, y: 0.56880736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9760d88c92228e7c0800000000000000
+      internalID: -4041943102711331207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_02
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1928
+        width: 342
+        height: 456
+      alignment: 9
+      pivot: {x: 0.5745614, y: 0.54385966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b19af077eb93590800000000000000
+      internalID: -7693909069812655301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_03
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 3204
+        width: 375
+        height: 444
+      alignment: 9
+      pivot: {x: 0.508, y: 0.5585586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ae3b4ece458eab0800000000000000
+      internalID: -4978636011632072176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3276
+        width: 393
+        height: 396
+      alignment: 9
+      pivot: {x: 0.5178117, y: 0.6363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f67c3bc2b1e653c0800000000000000
+      internalID: -4371058230286321936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_05
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 2430
+        width: 359
+        height: 384
+      alignment: 9
+      pivot: {x: 0.53899723, y: 0.6458333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8c15dc531170f70800000000000000
+      internalID: 9153303690429450478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_06
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 2025
+        width: 351
+        height: 403
+      alignment: 9
+      pivot: {x: 0.5968661, y: 0.61042184}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4821dde542eb930a0800000000000000
+      internalID: -6901275890548927868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_07
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1941
+        width: 333
+        height: 402
+      alignment: 9
+      pivot: {x: 0.5960961, y: 0.6094527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd8c9fbc71d08910800000000000000
+      internalID: 1837698981688020447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_08
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 2816
+        width: 371
+        height: 404
+      alignment: 9
+      pivot: {x: 0.5808625, y: 0.6039604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1896f05469f79ec60800000000000000
+      internalID: 7847944109050259841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_09
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 3222
+        width: 372
+        height: 398
+      alignment: 9
+      pivot: {x: 0.57123655, y: 0.6105528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50319baaa8126c2d0800000000000000
+      internalID: -3258880400902515963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_10
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 2800
+        width: 359
+        height: 402
+      alignment: 9
+      pivot: {x: 0.591922, y: 0.6069652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a62d80b2b292930800000000000000
+      internalID: 4118870798038624869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_11
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1620
+        width: 325
+        height: 403
+      alignment: 9
+      pivot: {x: 0.6353846, y: 0.60794044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df5042ea4f0eff20800000000000000
+      internalID: 3458218378164985810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_12
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 601
+        width: 286
+        height: 416
+      alignment: 9
+      pivot: {x: 0.72902095, y: 0.6081731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d110a4221976a4e0800000000000000
+      internalID: -1970754668097170983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_13
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 601
+        width: 286
+        height: 416
+      alignment: 9
+      pivot: {x: 0.72902095, y: 0.6081731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d662bc9fddbbe4cf0800000000000000
+      internalID: -266068765915273619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoshiguma_Skill_End_14
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 601
+        width: 286
+        height: 416
+      alignment: 9
+      pivot: {x: 0.72902095, y: 0.6081731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a0c4e820f13d210800000000000000
+      internalID: 1356462008606394932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

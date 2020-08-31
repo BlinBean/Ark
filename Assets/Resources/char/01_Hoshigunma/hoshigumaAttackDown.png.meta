@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: b8bc403f09d7548479fe7c12d71eade9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4014089596087809735
+    second: armatureName_Attack_Down_00
+  - first:
+      213: 5972755997979754338
+    second: armatureName_Attack_Down_01
+  - first:
+      213: 5494104642382735422
+    second: armatureName_Attack_Down_02
+  - first:
+      213: -7214369947902198964
+    second: armatureName_Attack_Down_03
+  - first:
+      213: 7684811148473819476
+    second: armatureName_Attack_Down_04
+  - first:
+      213: -5069090232018105004
+    second: armatureName_Attack_Down_05
+  - first:
+      213: -5226208719041645845
+    second: armatureName_Attack_Down_06
+  - first:
+      213: 2923070922911347101
+    second: armatureName_Attack_Down_07
+  - first:
+      213: -8499100441195623219
+    second: armatureName_Attack_Down_08
+  - first:
+      213: -2532185957525445297
+    second: armatureName_Attack_Down_09
+  - first:
+      213: -6399267403595999069
+    second: armatureName_Attack_Down_10
+  - first:
+      213: 4290511340562932385
+    second: armatureName_Attack_Down_11
+  - first:
+      213: 5271190398003210783
+    second: armatureName_Attack_Down_12
+  - first:
+      213: -7154514437530134430
+    second: armatureName_Attack_Down_13
+  - first:
+      213: 5435965751928694676
+    second: armatureName_Attack_Down_14
+  - first:
+      213: -1793944198913143110
+    second: armatureName_Attack_Down_15
+  - first:
+      213: -8345892629000333559
+    second: armatureName_Attack_Down_16
+  - first:
+      213: 3585843615219682602
+    second: armatureName_Attack_Down_17
+  - first:
+      213: -5685379401045965682
+    second: armatureName_Attack_Down_18
+  - first:
+      213: 2971979987555723510
+    second: armatureName_Attack_Down_19
+  - first:
+      213: 6381841643851049122
+    second: armatureName_Attack_Down_20
+  - first:
+      213: 3306492749610487918
+    second: armatureName_Attack_Down_21
+  - first:
+      213: 1793126255055503959
+    second: armatureName_Attack_Down_22
+  - first:
+      213: 4615073514166982365
+    second: armatureName_Attack_Down_23
+  - first:
+      213: 6820999288360229315
+    second: armatureName_Attack_Down_24
+  - first:
+      213: 1479023099125957799
+    second: armatureName_Attack_Down_25
+  - first:
+      213: -8790655179165099147
+    second: armatureName_Attack_Down_26
+  - first:
+      213: -5278945113908465952
+    second: armatureName_Attack_Down_27
+  - first:
+      213: 4777030552910213695
+    second: armatureName_Attack_Down_28
+  - first:
+      213: 5627458929475693621
+    second: armatureName_Attack_Down_29
+  - first:
+      213: -229858599984577362
+    second: armatureName_Attack_Down_30
+  - first:
+      213: 5810934339789213373
+    second: armatureName_Attack_Down_31
+  - first:
+      213: -2027923061457494835
+    second: armatureName_Attack_Down_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_00
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2548
+        width: 338
+        height: 387
+      alignment: 9
+      pivot: {x: 0.53698224, y: 0.15762274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6b7675839e4b730800000000000000
+      internalID: 4014089596087809735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2946
+        width: 369
+        height: 389
+      alignment: 9
+      pivot: {x: 0.57588077, y: 0.16195373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fbaa56fed73e250800000000000000
+      internalID: 5972755997979754338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_02
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3706
+        width: 391
+        height: 389
+      alignment: 9
+      pivot: {x: 0.59462917, y: 0.16195373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e382c00301bfe3c40800000000000000
+      internalID: 5494104642382735422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_03
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3337
+        width: 404
+        height: 382
+      alignment: 9
+      pivot: {x: 0.6076733, y: 0.16492146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b390971c861eb90800000000000000
+      internalID: -7214369947902198964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_04
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3721
+        width: 410
+        height: 374
+      alignment: 9
+      pivot: {x: 0.6060976, y: 0.1631016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4516ebe060fe5aa60800000000000000
+      internalID: 7684811148473819476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_05
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3719
+        width: 407
+        height: 376
+      alignment: 9
+      pivot: {x: 0.5958231, y: 0.16223404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d882a8a49f6a9b0800000000000000
+      internalID: -5069090232018105004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_06
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 3199
+        width: 345
+        height: 400
+      alignment: 9
+      pivot: {x: 0.5231884, y: 0.2225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be239731cd6c877b0800000000000000
+      internalID: -5226208719041645845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_07
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1838
+        width: 313
+        height: 447
+      alignment: 9
+      pivot: {x: 0.42332268, y: 0.31543624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91776d6485d09820800000000000000
+      internalID: 2923070922911347101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_08
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2694
+        width: 339
+        height: 471
+      alignment: 9
+      pivot: {x: 0.46460176, y: 0.36518046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc4b2ccd212d0a80800000000000000
+      internalID: -8499100441195623219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_09
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 2813
+        width: 343
+        height: 474
+      alignment: 9
+      pivot: {x: 0.44460642, y: 0.38396624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45a678a94edbdcd0800000000000000
+      internalID: -2532185957525445297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2431
+        width: 345
+        height: 513
+      alignment: 9
+      pivot: {x: 0.25652173, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a89ce1833c3137a0800000000000000
+      internalID: -6399267403595999069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_11
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1686
+        width: 312
+        height: 564
+      alignment: 9
+      pivot: {x: 0.28365386, y: 0.50886524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2e9070555fa8b30800000000000000
+      internalID: 4290511340562932385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2005
+        width: 330
+        height: 541
+      alignment: 9
+      pivot: {x: 0.35, y: 0.49168208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a6e603db7072940800000000000000
+      internalID: 5271190398003210783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_13
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1753
+        width: 318
+        height: 494
+      alignment: 9
+      pivot: {x: 0.24056605, y: 0.43724698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268dc9a760f06bc90800000000000000
+      internalID: -7154514437530134430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1449
+        width: 312
+        height: 554
+      alignment: 9
+      pivot: {x: 0.19391026, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49726e6ec0e607b40800000000000000
+      internalID: 5435965751928694676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_15
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 2647
+        width: 337
+        height: 550
+      alignment: 9
+      pivot: {x: 0.33679524, y: 0.49818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abec8ec7141aa17e0800000000000000
+      internalID: -1793944198913143110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_16
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 3601
+        width: 362
+        height: 494
+      alignment: 9
+      pivot: {x: 0.28314918, y: 0.43927124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90752e25fde6d2c80800000000000000
+      internalID: -8345892629000333559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_17
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 2287
+        width: 332
+        height: 524
+      alignment: 9
+      pivot: {x: 0.16716868, y: 0.46946564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d8549f4c973c130800000000000000
+      internalID: 3585843615219682602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_18
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 3167
+        width: 357
+        height: 537
+      alignment: 9
+      pivot: {x: 0.25910366, y: 0.48044693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e840553ae897911b0800000000000000
+      internalID: -5685379401045965682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2020
+        width: 328
+        height: 409
+      alignment: 9
+      pivot: {x: 0.20579268, y: 0.31295845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f824dd6d089e3920800000000000000
+      internalID: 2971979987555723510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1215
+        width: 311
+        height: 455
+      alignment: 9
+      pivot: {x: 0.18167202, y: 0.3802198}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a86982a92bd09850800000000000000
+      internalID: 6381841643851049122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_21
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 2249
+        width: 320
+        height: 396
+      alignment: 9
+      pivot: {x: 0.3296875, y: 0.28535354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6010f023a503ed20800000000000000
+      internalID: 3306492749610487918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1672
+        width: 326
+        height: 346
+      alignment: 9
+      pivot: {x: 0.29601228, y: 0.19942197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752820e14d672e810800000000000000
+      internalID: 1793126255055503959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_23
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1807
+        width: 296
+        height: 394
+      alignment: 9
+      pivot: {x: 0.2043919, y: 0.29187816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd69c30d8e80c0040800000000000000
+      internalID: 4615073514166982365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_24
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 2203
+        width: 325
+        height: 442
+      alignment: 9
+      pivot: {x: 0.35538462, y: 0.35972852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c957eba6be09ae50800000000000000
+      internalID: 6820999288360229315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_25
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2252
+        width: 332
+        height: 440
+      alignment: 9
+      pivot: {x: 0.48343372, y: 0.3409091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a400062cab868410800000000000000
+      internalID: 1479023099125957799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_26
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3289
+        width: 359
+        height: 427
+      alignment: 9
+      pivot: {x: 0.54456824, y: 0.28337237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b9aee70b1510680800000000000000
+      internalID: -8790655179165099147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_27
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3327
+        width: 369
+        height: 390
+      alignment: 9
+      pivot: {x: 0.57588077, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eea3b0536b6db6b0800000000000000
+      internalID: -5278945113908465952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_28
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 3718
+        width: 363
+        height: 377
+      alignment: 9
+      pivot: {x: 0.57713497, y: 0.16710876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32b6636afb6b4240800000000000000
+      internalID: 4777030552910213695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_29
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2937
+        width: 349
+        height: 388
+      alignment: 9
+      pivot: {x: 0.5544413, y: 0.15979381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53caf7fa410c81e40800000000000000
+      internalID: 5627458929475693621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2548
+        width: 338
+        height: 387
+      alignment: 9
+      pivot: {x: 0.53698224, y: 0.15762274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4c95732d06fccf0800000000000000
+      internalID: -229858599984577362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_31
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2548
+        width: 338
+        height: 387
+      alignment: 9
+      pivot: {x: 0.53698224, y: 0.15762274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe41409ef594a050800000000000000
+      internalID: 5810934339789213373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armatureName_Attack_Down_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2548
+        width: 338
+        height: 387
+      alignment: 9
+      pivot: {x: 0.53698224, y: 0.15762274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccd00258be5bd3e0800000000000000
+      internalID: -2027923061457494835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
